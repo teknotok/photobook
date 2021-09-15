@@ -1,0 +1,7 @@
+{
+  "name": "photoBook",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
